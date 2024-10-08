@@ -1,6 +1,6 @@
 # Athina Kantis
 
-Full-Stack Web Developer Student at Business College Helsinki</br>
+I'm a Web Developer Student with a passion for design</br>
 
 
 Preferred communication channel: Send me an email at athina.kantis@gmail.com</br>
