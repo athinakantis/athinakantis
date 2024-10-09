@@ -1,6 +1,9 @@
 # Athina Kantis
 
-I'm a Web Developer Student with a passion for design</br>
+- Ex Nurse Assistant changing careers
+- Particularly passionate about Design & Accessibility
+
+
 
 
 My preferred communication channel: athina.kantis@gmail.com</br>
