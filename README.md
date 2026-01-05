@@ -7,4 +7,4 @@ You can find my **projects** in my <a href="https://athinakantis.com" target="_b
 My preferred communication channel: athina.kantis@gmail.com</br>
 I am fully fluent in Swedish and English 🇸🇪 🇺🇸
 
-Class of React25S 🎉
+Class of React24S 🎉
